@@ -20,3 +20,8 @@ Strictly Confidential
 Visual marking: UniCredit – Strictly Confidential
 
 In aggiunta la sub-label Strictly Confidential – GDPR con visual marking UniCredit – Strictly Confidential GDPR che rimpiazza la label Strictly Confidential custom recipient/permissions
+
+
+Template Policy
+[{"Rank": 1,"DisplayName": " Strictly Confidential","Description": "This is  Strictly Confidential...", "Subject": "( Strictly Confidential)","TopBody": "Classification:  Strictly Confidential", "BottomBody": "Classification:  Strictly Confidential", "XHeader": "Strictly Confidential"}]
+

@@ -1,0 +1,23 @@
+<AssignedAccessConfiguration xmlns="http://schemas.microsoft.com/AssignedAccess/2017/config"> <Profiles>
+<Profile Id="{4138f944-5170-40ef-9edb-0f9fcc23a45c}"> <AllAppsList>
+<AllowedApps>
+<App DesktopAppPath="C:\EDITEL\OTC\Bin\OTC.exe" />
+<App DesktopAppPath="C:\Program Files\VMware\Workspace ONE Tunnel\TunnelUI.exe" />
+<App DesktopAppPath="C:\Program Files\Workspace ONE Assist\WorkspaceONE.Assist.Client.exe"/>
+</AllowedApps> </AllAppsList> <StartLayout>
+<![CDATA[<LayoutModificationTemplate xmlns:defaultlayout="http://schemas.microsoft.com/Start/2014/ FullDefaultLayout" xmlns:start="http://schemas.microsoft.com/Start/2014/StartLayout" Version="1" xmlns="http://schemas.microsoft.com/Start/2014/LayoutModification">
+<LayoutOptions StartTileGroupCellWidth="6" /> <DefaultLayoutOverride>
+<StartLayoutCollection> <defaultlayout:StartLayout GroupCellWidth="6">
+<start:Group Name="Applications"> <start:DesktopApplicationTile DesktopApplicationLinkPath="C:
+\ProgramData\Microsoft\Windows\Start Menu\Programs\OTC.lnk" Size="2x2" Column="0" Row="0" /> <start:DesktopApplicationTile DesktopApplicationLinkPath="C:
+\ProgramData\Microsoft\Windows\Start Menu\Programs\Workspace ONE Tunnel.lnk" Size="2x2" Column="2" Row="0" />
+<start:DesktopApplicationTile DesktopApplicationLinkPath="C:\Program Files\Workspace ONE Assist\WorkspaceONE.Assist.Client.exe" Size="2x2" Column="0" Row="2" />
+</start:Group></defaultlayout:StartLayout> </StartLayoutCollection></DefaultLayoutOverride>
+</LayoutModificationTemplate>]]> </StartLayout>
+<Taskbar ShowTaskbar="false" />
+</Profile> </Profiles> <Configs>
+<Config>
+<AutoLogonAccount />
+<DefaultProfile Id="{4138f944-5170-40ef-9edb-0f9fcc23a45c}" />
+</Config> </Configs>
+</AssignedAccessConfiguration>

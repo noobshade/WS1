@@ -1,0 +1,195 @@
+1602151705811|W|ExtendedX509TrustManager|checkServerTrusted: Error matching certificate -> Certificate pin match not found for mdmqa.unicredit.eu/194.149.232.199|
+1602151705969|I|AirWatch|Response code is: 200|
+1602151705992|I|AirWatch|Setting Timeout Values, Connection:300000, SO Timeout:300000|
+1602151706159|W|ExtendedX509TrustManager|checkServerTrusted: Error matching certificate -> Certificate pin match not found for mdmqa.unicredit.eu/194.149.232.199|
+1602151706512|I|CheckForCommandTask|Checking for commands...|
+1602151706517|I|AirWatch|Launcher service is not available.|
+1602151706530|I|AirWatch|Checking for commands|
+1602151706534|I|AirWatch|Setting Timeout Values, Connection:300000, SO Timeout:300000|
+1602151706547|I|AirWatch|AWService.initializeServiceCustom already done, exiting|
+1602151706547|I|AWService|AWService.startServiceCustom already started, do not start another set of threads|
+1602151706663|W|ExtendedX509TrustManager|checkServerTrusted: Error matching certificate -> Certificate pin match not found for mdmqa.unicredit.eu/194.149.232.199|
+1602151706845|I|AirWatch|Response code is: 200|
+1602151706878|I|AirWatch|AWService.initializeServiceCustom already done, exiting|
+1602151706878|I|AWService|AWService.startServiceCustom already started, do not start another set of threads|
+1602151706890|I|ProductManager|[task queue] starting new processing round|
+1602151706891|I|ProductManager|getting list of pending products|
+1602151706898|I|AirWatch|Launcher service is not available.|
+1602151706902|I|AirWatch|Checking for commands|
+1602151706908|I|AirWatch|Setting Timeout Values, Connection:300000, SO Timeout:300000|
+1602151707072|W|ExtendedX509TrustManager|checkServerTrusted: Error matching certificate -> Certificate pin match not found for mdmqa.unicredit.eu/194.149.232.199|
+1602151707129|I|ProductManager|No pending products to be process|
+1602151707267|I|AirWatch|Response code is: 200|
+1602151707296|I|AirWatch|Response code is: 200|
+1602151707312|I|ProductManager|[task queue] starting new processing round|
+1602151707312|I|ProductManager|getting list of pending products|
+1602151707327|I|AirWatch|AWService.initializeServiceCustom already done, exiting|
+1602151707327|I|AWService|AWService.startServiceCustom already started, do not start another set of threads|
+1602151707335|E|InterrogatorMessage|Interrogator not ready. Ready flag: -64|
+1602151707336|W|AndroidEnterpriseMigrationSampleNotifier|No callback set|
+1602151707336|I|Aggregator|Aggregator.aggregate END|
+1602151707358|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151707556|I|ProductManager|No pending products to be process|
+1602151709255|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151710837|I|AirWatch|Setting Timeout Values, Connection:2500, SO Timeout:5000|
+1602151711153|I|AirWatch|Response code is: 200|
+1602151711155|I|NetworkReachability|received a correct AW response from console endpoint, marking reachable|
+1602151711156|W|DefaultDistrustHandler|ssl pin validation for host mdmqa.unicredit.eu failed|
+1602151711157|I|CertFailureRptMsg|sending certificate pinning error to https://mdmqa.unicredit.eu|
+1602151711158|I|AirWatch|Setting Timeout Values, Connection:60000, SO Timeout:60000|
+1602151711440|I|AirWatch|Response code is: 200|
+1602151711441|I|CertFailureRpt|trust failed for mdmqa.unicredit.eu|
+1602151711441|I|DefaultDistrustHandler|Reached maximum retry for certificate pinning for mdmqa.unicredit.eu|
+1602151711441|W|DefaultDistrustHandler|ssl pin validation for host mdmqa.unicredit.eu failed|
+1602151711441|I|CertFailureRptMsg|sending certificate pinning error to https://mdmqa.unicredit.eu|
+1602151711441|I|AirWatch|Setting Timeout Values, Connection:60000, SO Timeout:60000|
+1602151711716|I|AirWatch|Response code is: 200|
+1602151711716|I|CertFailureRpt|trust failed for mdmqa.unicredit.eu|
+1602151711717|I|DefaultDistrustHandler|Reached maximum retry for certificate pinning for mdmqa.unicredit.eu|
+1602151711717|W|DefaultDistrustHandler|ssl pin validation for host mdmqa.unicredit.eu failed|
+1602151711718|I|CertFailureRptMsg|sending certificate pinning error to https://mdmqa.unicredit.eu|
+1602151711718|I|AirWatch|Setting Timeout Values, Connection:60000, SO Timeout:60000|
+1602151711988|I|AirWatch|Response code is: 200|
+1602151711990|I|CertFailureRpt|trust failed for mdmqa.unicredit.eu|
+1602151711990|I|DefaultDistrustHandler|Reached maximum retry for certificate pinning for mdmqa.unicredit.eu|
+1602151711991|W|DefaultDistrustHandler|ssl pin validation for host mdmqa.unicredit.eu failed|
+1602151711992|I|CertFailureRptMsg|sending certificate pinning error to https://mdmqa.unicredit.eu|
+1602151711993|I|AirWatch|Setting Timeout Values, Connection:60000, SO Timeout:60000|
+1602151712706|I|AirWatch|Response code is: 200|
+1602151712708|I|CertFailureRpt|trust failed for mdmqa.unicredit.eu|
+1602151712708|I|DefaultDistrustHandler|Reached maximum retry for certificate pinning for mdmqa.unicredit.eu|
+1602151730206|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602151730206|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_REMOVED|
+1602151730234|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602151730234|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_ADDED|
+1602151730449|I|AirWatch|Picking from Q :LOWEST|
+1602151730641|I|AirWatch|ClientAppRequestManagernotifyClientAppState() : appInfo is NULL for package com.boxer.email|
+1602151730642|I|AppInstallStatusMonitor|updating the install status of com.boxer.email ACTIVATED|
+1602151730823|I|AndroidWorkPermissionProfileGroup|Applying AndroidWorkPermissionProfileGroup|
+1602151733322|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151739582|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151750123|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602151750124|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_REMOVED|
+1602151750310|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602151750311|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_ADDED|
+1602151750461|I|AirWatch|Picking from Q :LOWEST|
+1602151750581|I|AirWatch|ClientAppRequestManagernotifyClientAppState() : appInfo is NULL for package com.airwatch.contentlocker|
+1602151750581|I|AppInstallStatusMonitor|updating the install status of com.airwatch.contentlocker ACTIVATED|
+1602151750627|I|AndroidWorkPermissionProfileGroup|Applying AndroidWorkPermissionProfileGroup|
+1602151753741|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151760384|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151790130|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602151790131|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_REMOVED|
+1602151790399|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602151790422|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_ADDED|
+1602151791395|I|AirWatch|Picking from Q :LOWEST|
+1602151791652|I|AirWatch|ClientAppRequestManagernotifyClientAppState() : appInfo is NULL for package com.boxer.email|
+1602151791653|I|AppInstallStatusMonitor|updating the install status of com.boxer.email ACTIVATED|
+1602151791946|I|AndroidWorkPermissionProfileGroup|Applying AndroidWorkPermissionProfileGroup|
+1602151802762|E|DetailsLog|Error while starting isolated process Attempt to invoke interface method 'boolean com.airwatch.core.security.wizard.a.a()' on a null object reference|
+1602151802766|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151813881|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602151813883|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_REMOVED|
+1602151813898|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602151813899|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_ADDED|
+1602151814510|I|AirWatch|Picking from Q :LOWEST|
+1602151814576|I|AirWatch|ClientAppRequestManagernotifyClientAppState() : appInfo is NULL for package com.airwatch.contentlocker|
+1602151814777|I|AppInstallStatusMonitor|updating the install status of com.airwatch.contentlocker ACTIVATED|
+1602151815095|I|AndroidWorkPermissionProfileGroup|Applying AndroidWorkPermissionProfileGroup|
+1602151824496|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151837018|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151841635|E|DetailsLog|Error while starting isolated process Attempt to invoke interface method 'boolean com.airwatch.core.security.wizard.a.a()' on a null object reference|
+1602151841641|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151844689|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602151844709|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_REMOVED|
+1602151845879|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602151845886|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_ADDED|
+1602151846872|I|AirWatch|Picking from Q :LOWEST|
+1602151847439|I|AirWatch|ClientAppRequestManagernotifyClientAppState() : appInfo is NULL for package com.boxer.email|
+1602151847440|I|AppInstallStatusMonitor|updating the install status of com.boxer.email ACTIVATED|
+1602151848383|I|AndroidWorkPermissionProfileGroup|Applying AndroidWorkPermissionProfileGroup|
+1602151857195|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151884178|E|DetailsLog|Error while starting isolated process Attempt to invoke interface method 'boolean com.airwatch.core.security.wizard.a.a()' on a null object reference|
+1602151884182|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602151920126|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_wake_lock_action|
+1602151920170|I|c|Sending beacon message..|
+1602151920180|I|AirWatch|Setting Timeout Values, Connection:300000, SO Timeout:300000|
+1602151920418|W|ExtendedX509TrustManager|checkServerTrusted: Error matching certificate -> Certificate pin match not found for mdmqa.unicredit.eu/194.149.232.199|
+1602151920954|I|AirWatch|Response code is: 200|
+1602151925452|I|AirWatch|Setting Timeout Values, Connection:2500, SO Timeout:5000|
+1602151925842|I|AirWatch|Response code is: 200|
+1602151925846|I|NetworkReachability|received a correct AW response from console endpoint, marking reachable|
+1602151925850|W|DefaultDistrustHandler|ssl pin validation for host mdmqa.unicredit.eu failed|
+1602151925853|I|CertFailureRptMsg|sending certificate pinning error to https://mdmqa.unicredit.eu|
+1602151925857|I|AirWatch|Setting Timeout Values, Connection:60000, SO Timeout:60000|
+1602151926179|I|AirWatch|Response code is: 200|
+1602151926183|I|CertFailureRpt|trust failed for mdmqa.unicredit.eu|
+1602151926184|I|DefaultDistrustHandler|Reached maximum retry for certificate pinning for mdmqa.unicredit.eu|
+1602152101628|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602152101629|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_REMOVED|
+1602152101644|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602152101644|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_ADDED|
+1602152101709|I|AirWatch|Picking from Q :LOWEST|
+1602152101740|I|AirWatch|ClientAppRequestManagernotifyClientAppState() : appInfo is NULL for package com.boxer.email|
+1602152101740|I|AppInstallStatusMonitor|updating the install status of com.boxer.email ACTIVATED|
+1602152101784|I|AndroidWorkPermissionProfileGroup|Applying AndroidWorkPermissionProfileGroup|
+1602152103561|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602152114237|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602152118650|I|AirWatch|Re-initializing the AWCM handler, if necessary, in case the OS killed it.|
+1602152118652|I|AirWatch|Re-initializing the AWCM handler, if necessary, in case the OS killed it.|
+1602152121870|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602152121870|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_REMOVED|
+1602152121886|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602152121891|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_ADDED|
+1602152122031|I|AirWatch|Picking from Q :LOWEST|
+1602152122089|I|AirWatch|ClientAppRequestManagernotifyClientAppState() : appInfo is NULL for package com.airwatch.contentlocker|
+1602152122089|I|AppInstallStatusMonitor|updating the install status of com.airwatch.contentlocker ACTIVATED|
+1602152122204|I|AndroidWorkPermissionProfileGroup|Applying AndroidWorkPermissionProfileGroup|
+1602152124252|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602152152440|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602152718051|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602152718052|I|BroadcastIntentService| : onHandleIntent start android.intent.action.USER_PRESENT|
+1602152718200|I|AirWatch|Re-initializing the AWCM handler, if necessary, in case the OS killed it.|
+1602152719598|I|AWCMReachMessage|Stopped AWCM Reach Message|
+1602152741390|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602152741390|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_REMOVED|
+1602152741584|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602152741585|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_ADDED|
+1602152741819|I|AirWatch|Picking from Q :LOWEST|
+1602152742017|I|AirWatch|ClientAppRequestManagernotifyClientAppState() : appInfo is NULL for package com.boxer.email|
+1602152742018|I|AppInstallStatusMonitor|updating the install status of com.boxer.email ACTIVATED|
+1602152742292|I|AndroidWorkPermissionProfileGroup|Applying AndroidWorkPermissionProfileGroup|
+1602152743969|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602152749835|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602152756662|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602152756664|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_REMOVED|
+1602152756679|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602152756680|I|BroadcastIntentService| : onHandleIntent start android.intent.action.PACKAGE_ADDED|
+1602152756905|I|AirWatch|Picking from Q :LOWEST|
+1602152756966|I|AirWatch|ClientAppRequestManagernotifyClientAppState() : appInfo is NULL for package com.airwatch.contentlocker|
+1602152756967|I|AppInstallStatusMonitor|updating the install status of com.airwatch.contentlocker ACTIVATED|
+1602152757016|I|AndroidWorkPermissionProfileGroup|Applying AndroidWorkPermissionProfileGroup|
+1602152759291|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602152765987|I|DynamicCDD|Dynamic compromise detection is a success for rulesId: Rules_SDK_20200505!|
+1602153717290|I|AWCMEngine|AWCM: message received|
+1602153799713|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602153799713|I|BroadcastIntentService| : onHandleIntent start com.airwatch.awcm.sync|
+1602153799713|I|Throttle|Event occurred at: 1602153799713  08/10/2020 12:43:19.713|
+1602153799950|I|BroadcastIntentService| : onHandleIntent start broadcast_receiver_delegate_action|
+1602153799951|I|BroadcastIntentService| : onHandleIntent start android.intent.action.USER_PRESENT|
+1602153800165|I|AirWatch|Re-initializing the AWCM handler, if necessary, in case the OS killed it.|
+1602153800876|I|AWCMReachMessage|Stopped AWCM Reach Message|
+1602153801795|I|CheckForCommandTask|Checking for commands...|
+1602153801800|I|AirWatch|Launcher service is not available.|
+1602153801811|I|AirWatch|Checking for commands|
+1602153801818|I|AirWatch|Setting Timeout Values, Connection:300000, SO Timeout:300000|
+1602153801835|I|AirWatch|AWService.initializeServiceCustom already done, exiting|
+1602153801836|I|AWService|AWService.startServiceCustom already started, do not start another set of threads|
+1602153802086|W|ExtendedX509TrustManager|checkServerTrusted: Error matching certificate -> Certificate pin match not found for mdmqa.unicredit.eu/194.149.232.199|
+1602153802426|I|AirWatch|Response code is: 200|
+1602153802474|I|AirWatch|checkForCommands: Command received from console = SEND_SYSTEM_LOG|
+1602153802489|I|AirWatch|Setting Timeout Values, Connection:300000, SO Timeout:300000|
+1602153802935|W|ExtendedX509TrustManager|checkServerTrusted: Error matching certificate -> Certificate pin match not found for mdmqa.unicredit.eu/194.149.232.199|
+1602153803276|I|AirWatch|Response code is: 200|
+1602153803317|I|RollingFileAggregator|Aggregator schema have not changed|
+1602153803318|I|ConsoleRetriever|Processing console request|

@@ -1,0 +1,23 @@
+#AirWatch Syslog Integration
+Skip to end of metadata
+Created by Alex Rybalko, last modified on Apr 19, 2018
+Go to start of metadata
+AirWatch
+Disclaimer
+My postings are my own and don’t necessarily represent VMware’s positions, strategies or opinions.
+
+Events
+Click on Groups & Settings > All Settings > Admin > Events.
+Each event has three, filterable, primary characteristics: Type, Severity, and Category
+Type has two options: Console and Device
+Severity has eight options in descending order of criticality: (0) Emergency, (1) Alert, (2) Critical, (3) Error, (4) Warning, (5) Notice, (6) Information, and (7) Debug
+Category has too many options to list.
+Examples
+For examples of event data available, the following can be done:
+From within their AirWatch console, click on Hub > Reports & Analytics > Events > Device Events or Hub > Reports & Analytics > Events > Console Events
+Click on the event data column to see the information that would get sent over to the syslog server for a given event.
+Facilities
+Used on the syslog server side for filtering events.
+See explanation - https://en.wikipedia.org/wiki/Syslog
+Scheduler Service
+The scheduler service sends all syslog events, Device and Console events, settings should reflect the selection for both in the syslog settings (Groups & Settings > All Settings > System > Enterprise Integration > Syslog).
